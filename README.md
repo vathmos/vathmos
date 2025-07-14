@@ -7,6 +7,5 @@
   /.-'       `\(-V-)/`       `-.\                                                         `      \(/|\)/        ` 
   `            "   "             `                                                                " ` "                                     
 ```
-![View Counter](https://view-counter-nu.vercel.app/)
-
+![](https://komarev.com/ghpvc/?username=vathmos&style=pixel)
 
