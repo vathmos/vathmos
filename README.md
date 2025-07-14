@@ -7,3 +7,4 @@
   /.-'       `\(-V-)/`       `-.\                                                         `      \(/|\)/        ` 
   `            "   "             `                                                                " ` "                                     
 ```
+<img src="https://view-counter-nu.vercel.app" alt="View Counter" width="120"/>
