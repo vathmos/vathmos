@@ -8,3 +8,4 @@
   `            "   "             `                                                                " ` "
  
 ```
+<img src="https://view-counter-nu.vercel.app/" alt="views" width="100" />
