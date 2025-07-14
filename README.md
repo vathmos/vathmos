@@ -6,6 +6,6 @@
    /` .' `\;-,'\___/',-;/` '. '\    |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/  (_)       \/ `\__|`\___/`|__/`  \/ 
   /.-'       `\(-V-)/`       `-.\                                                         `      \(/|\)/        ` 
   `            "   "             `                                                                " ` "
- 
+ <img src="https://view-counter-nu.vercel.app/" alt="views" width="100" />
 ```
-<img src="https://view-counter-nu.vercel.app/" alt="views" width="100" />
+
