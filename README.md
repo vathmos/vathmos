@@ -7,7 +7,6 @@
   /.-'       `\(-V-)/`       `-.\                                                         `      \(/|\)/        ` 
   `            "   "             `                                                                " ` "
 ```
-<hr>
 <div style="margin-left: 40px">
 &nbsp;&nbsp;&nbsp;<img alt="github-snake" src="https://github.com/vathmos/vathmos/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
