@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHR2aWo2M3Q1a2R5NXZxajIyZHVzNms1bXZrMHVjamJhd3ZxNDEyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgKVfxv2VRrb4R2kDY/giphy.gif" alt="Skeleton Banging Shield">
+</p>
+
+
 ```
 
       =/\                 /\=                       __                             __     /\                 /\   
@@ -23,6 +29,9 @@
 j_.__.adL  (              `-...___...-((((___..-'-.:.:.:.:((((___..-'-.....-.......-....adl-~      `<~<`--'>~>
 
 ```
+
 <div style="margin-left: 40px">
 &nbsp;&nbsp;&nbsp;<img alt="github-snake" src="https://github.com/vathmos/vathmos/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+
