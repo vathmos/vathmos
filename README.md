@@ -57,8 +57,14 @@ j_.__.adL  (              `-...___...-((((___..-'-.:.:.:.:((((___..-'-.....-....
 
 ```
 
-<div style="margin-left: 40px">
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=Vathmos&top_languages=true&stroke=red&hide_clan=true" alt="Codewars" />
+</p>
+
+<div style="margin-left: 40px; margin-bottom:40px">
 &nbsp;&nbsp;&nbsp;<img alt="github-snake" src="https://github.com/vathmos/vathmos/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+
 
 
